@@ -6,10 +6,10 @@ This template provides a quick start for setting up a project using **react-rout
 
 ## Getting Started
 
-### Open a terminal in the directory where you'd like to create the project and run the following commands:
+Open a terminal in the directory where you'd like to create the project and run the following commands:
 
 ```bash
-git clone https://github.com/DevTomUK/react-router-dom-template
+git clone https://github.com/DevTomUK/react-router-dom-template.git
 npm install
 npm run dev
 ```
